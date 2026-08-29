@@ -6,9 +6,9 @@
 |---|---|
 | Policy No. | ICN-03 |
 | Effective Date | *[To be entered upon Board adoption]* |
-| Approved By | *[Board of Directors / Religious Affairs Committee]* |
+| Approved By | *[Executive Committee]* |
 | Review Cycle | Annual |
-| Owner | Imam / Religious Affairs Committee |
+| Owner | Executive Committee / Religious Affairs Committee |
 
 ---
 
@@ -64,8 +64,6 @@ Capacity & Crowd Management Policy · Community Services & Event Management Poli
 
 ## 7. Approval
 
-Approved by the ICN Bellevue Board of Directors on: ______________________
+Approved by the ICN Bellevue Executive Committee on: ______________________
 
-Signature (Imam): ______________________
-
-Signature (Board Chair): ______________________
+Signature (Executive Committee Chair): ______________________
