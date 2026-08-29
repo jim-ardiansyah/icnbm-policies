@@ -23,4 +23,6 @@ The purpose of these policies is not simply to establish rules, but to promote r
 | 13 | IT, AV & Communications | 13_IT_AV_and_Communications_Policy.md |
 | 14 | Community Code of Conduct | 14_Community_Code_of_Conduct_Policy.md |
 | 15 | Insurance & Legal Compliance | 15_Insurance_and_Legal_Compliance_Policy.md |
+| 16 | Gymnasium Operations and Rental Policy | 16_Gymnasium_Operations_and_Rental_Policy.md |
+| 17 | Gymnasium Usage Policy | 17_Gymnasium_Usage_Policy.md |
 
