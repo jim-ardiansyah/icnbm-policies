@@ -5,12 +5,10 @@
 | | |
 |---|---|
 | Policy No. | ICN-16 |
-| Effective Date | *[To be entered upon Board adoption]* |
-| Approved By | *[Board of Directors]* |
+| Effective Date | *[To be entered upon Executive Committee adoption]* |
+| Approved By | *[Executive Committee]* |
 | Review Cycle | Annual; rates reviewed each spring |
-| Owner | Facility Manager |
-
-> **Status:** Draft for Board adoption and legal review. In any conflict between this policy and a signed rental agreement, the more restrictive term controls unless the Facilities Manager and Board expressly agree otherwise in writing.
+| Owner | Executive Committee/Facility Manager |
 
 ---
 
