@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Policy No. | ICN-05 |
-| Effective Date | *[To be entered upon Board adoption]* |
-| Approved By | *[Board of Directors]* |
+| Effective Date | *[To be entered upon Executive Committee adoption]* |
+| Approved By | *[Executive Committee]* |
 | Review Cycle | Annual, and after any security incident |
 | Owner | Security Committee |
 
