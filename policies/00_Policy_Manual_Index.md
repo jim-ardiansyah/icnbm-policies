@@ -1,8 +1,3 @@
-# ICN Bellevue Policy Manual — Index
-
-**Islamic Center of Nashville at Bellevue Mosque**
-
-This policy manual consists of 15 standalone, board-ready policies. Each file can be adopted individually or as a full set.
 
 | No. | Policy | File |
 |---|---|---|
@@ -22,16 +17,3 @@ This policy manual consists of 15 standalone, board-ready policies. Each file ca
 | 14 | Community Code of Conduct | 14_Community_Code_of_Conduct_Policy.md |
 | 15 | Insurance & Legal Compliance | 15_Insurance_and_Legal_Compliance_Policy.md |
 
-## Suggested 90-Day Adoption Priority
-1. Health, Safety & Emergency Management (04) — fire/life-safety is code-driven and non-negotiable
-2. Capacity & Crowd Management (02)
-3. Security (05)
-4. Children, Youth & Family Safety (09)
-5. Finance & Donations (12)
-6. Facility Maintenance & Housekeeping (06)
-7. Remaining policies, rolled out over the following two quarters
-
-## Notes Before Adoption
-- Every numeric threshold tied to fire/building code (occupancy limits, exit counts, extinguisher spacing) must be confirmed with the local Fire Marshal / Authority Having Jurisdiction before these policies are finalized.
-- Have a local attorney review nonprofit compliance and liability language, and your insurance broker confirm coverage adequacy, before Board adoption.
-- Each policy has a blank "Effective Date" and signature block — fill these in as the Board formally adopts each one.
