@@ -22,7 +22,7 @@ Applies to the Executive Committee, sub-committees, staff, and volunteers.
 ICN Bellevue shall be governed by Executive Committee (EC) that holds ultimate fiduciary and religious-administrative responsibility for the organization. Day-to-day operations are delegated to an Operation sub-committee and Facility Manager, who directs across Operations, Finance, Volunteers, and Events.
 
 ### 3.1 Organizational Structure
-- **Board of Trustee ** — sets strategic direction, approves budgets, approves/amends all policies, hires and Imam.
+- **Board of Trustee (BoT)** — sets strategic direction, approves budgets, approves/amends all policies, hires and Imam.
 - **Executive Committee (EC)** — implements Board policy, manages staff, oversees daily operations, reports monthly to the Board.
 - **Imam / Religious Affairs** — leads religious programming and rulings on matters of fiqh in coordination with the Board's religious committee.
 - **Facility Manager** — Operations, Finance, Security, Volunteer Coordination, Events, Youth.
