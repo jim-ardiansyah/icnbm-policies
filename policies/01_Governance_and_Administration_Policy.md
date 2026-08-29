@@ -34,8 +34,8 @@ ICN Bellevue shall be governed by Executive Committee (EC) that holds ultimate f
 - Each policy in the ICN Bellevue policy manual is reviewed no less than annually.
 
 ### 3.3 Meetings & Records
-- Board meetings held at a minimum quarterly, with minutes recorded and archived.
-- Annual General Body meeting held to report on finances, activities, and elections (if applicable).
+- EC meetings held at a minimum weekly, with minutes recorded and archived.
+- Annual community meeting held to report on finances, activities, and elections (if applicable).
 
 ### 3.4 Document Control
 - The master policy manual is maintained digitally and in a physical binder accessible to all staff and key volunteers.
@@ -49,7 +49,7 @@ ICN Bellevue shall be governed by Executive Committee (EC) that holds ultimate f
 5. Logged in the Policy Register with effective date and next review date.
 
 ## 5. Roles & Responsibilities
-- **Board of Trustee**: Presides over Board meetings; final sign-off on policy adoption.
+- **Board of Trustee (BoT)**: Presides over Board meetings; final sign-off on policy adoption.
 - **Executive Committee**: Implements approved policies; maintains the policy manual.
 - **Sub-Committee Chairs**: Draft and recommend policies within their domain.
 
