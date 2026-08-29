@@ -5,10 +5,10 @@
 | | |
 |---|---|
 | Policy No. | ICN-04 |
-| Effective Date | *[To be entered upon Board adoption]* |
-| Approved By | *[Board of Directors]* |
+| Effective Date | *[To be entered upon Executive Committee adoption]* |
+| Approved By | *[Executive Committee]* |
 | Review Cycle | Annual, and after any incident or drill |
-| Owner | Facility Manager / Safety Committee |
+| Owner | Executive Committee/Facility Manager / Security Committee |
 
 ---
 
@@ -64,7 +64,7 @@ The EAP is posted in staff areas and reviewed with all staff and key volunteers 
 
 ## 5. Roles & Responsibilities
 - **Facility Manager**: Owns fire-system compliance, AED/first-aid readiness, incident log.
-- **Safety Committee**: Runs annual drills, reviews incident reports, updates the EAP.
+- **Security Committee**: Runs annual drills, reviews incident reports, updates the EAP.
 - **All Staff/Key Volunteers**: Know their role in the EAP and complete required safety training.
 
 ## 6. Related Policies
