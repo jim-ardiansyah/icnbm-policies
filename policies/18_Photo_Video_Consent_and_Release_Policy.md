@@ -8,7 +8,7 @@
 | Effective Date | *[To be entered upon EC adoption]* |
 | Approved By | *[Board of Trustees]* |
 | Review Cycle | Annual |
-| Owner | IT/Communications Coordinator |
+| Owner | IT/Communications Committee |
 
 ---
 
@@ -61,4 +61,4 @@ Approved by the ICN Bellevue Board of Trustees on: ______________________
 
 Signature (Executive Committee Chair): ______________________
 
-Signature (Executive Committee (EC)): ______________________
+Signature (IT/Communications Committee): ______________________
