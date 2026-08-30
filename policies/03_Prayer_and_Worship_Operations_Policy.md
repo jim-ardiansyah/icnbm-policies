@@ -5,10 +5,10 @@
 | | |
 |---|---|
 | Policy No. | ICN-03 |
-| Effective Date | *[To be entered upon Board adoption]* |
+| Effective Date | *[To be entered upon EC adoption]* |
 | Approved By | *[Board of Trustees / Religious Affairs Committee]* |
 | Review Cycle | Annual |
-| Owner | Imam / Religious Affairs Committee |
+| Owner | Executive Committee (EC) / Religious Affairs Committee |
 
 ---
 
@@ -68,4 +68,4 @@ Approved by the ICN Bellevue Board of Trustees on: ______________________
 
 Signature (Imam): ______________________
 
-Signature (Board Chair): ______________________
+Signature (	Executive Committee (EC) Chair): ______________________
