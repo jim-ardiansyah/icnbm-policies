@@ -5,10 +5,10 @@
 | | |
 |---|---|
 | Policy No. | ICN-10 |
-| Effective Date | *[To be entered upon Board adoption]* |
+| Effective Date | *[To be entered upon EC adoption]* |
 | Approved By | *[Board of Trustees]* |
 | Review Cycle | Annual |
-| Owner | Events Coordinator |
+| Owner | Events Committee |
 
 ---
 
@@ -55,6 +55,6 @@ Prayer & Worship Operations Policy · Facility Maintenance & Housekeeping Policy
 
 Approved by the ICN Bellevue Board of Trustees on: ______________________
 
-Signature (Board Chair): ______________________
+Signature (	Executive Committee Chair): ______________________
 
-Signature (Events Coordinator): ______________________
+Signature (Events Committee): ______________________
