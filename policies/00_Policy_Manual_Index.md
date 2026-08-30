@@ -17,3 +17,6 @@
 | 15 | Insurance & Legal Compliance | 15_Insurance_and_Legal_Compliance_Policy.md |
 | 16 | Gymnasium Operations and Rental Policy | 16_Gymnasium_Operations_and_Rental_Policy.md |
 | 17 | Gymnasium Usage Policy | 17_Gymnasium_Usage_Policy.md |
+| 18 | Photo/Video Consent & Release | 18_Photo_Video_Consent_and_Release_Policy.md |
+| 19 | Media & Public Statement | 19_Media_and_Public_Statement_Policy.md |
+| 20 | Concession / Vendor | 22_Concession_Vendor_Policy.md |
