@@ -5,10 +5,10 @@
 | | |
 |---|---|
 | Policy No. | ICN-13 |
-| Effective Date | *[To be entered upon Board adoption]* |
+| Effective Date | *[To be entered upon EC adoption]* |
 | Approved By | *[Board of Trustees]* |
 | Review Cycle | Annual |
-| Owner | IT/Communications Coordinator |
+| Owner | IT/Communications Committee |
 
 ---
 
@@ -52,6 +52,6 @@ Security Policy · Health, Safety & Emergency Management Policy
 
 Approved by the ICN Bellevue Board of Trustees on: ______________________
 
-Signature (Board Chair): ______________________
+Signature (	Executive Committee Chair): ______________________
 
-Signature (IT/Communications Coordinator): ______________________
+Signature (IT/Communications Committee): ______________________
