@@ -6,14 +6,14 @@
 |---|---|
 | Policy No. | ICN-02 |
 | Effective Date | *[To be entered upon Board adoption]* |
-| Approved By | *[Executive Committee]* |
+| Approved By | *[Board of Trustees]* |
 | Review Cycle | Annual, and before each Ramadan/Eid season |
-| Owner | Executive Committee |
+| Owner | Facility Manager / Security Committee |
 
 ---
 
 ## 1. Purpose
-To ensure the safety congregants by preventing overcrowding, maintaining clear egress paths, and providing a documented plan for peak-attendance events (Jummah, Taraweeh, Eid).
+To ensure the safety of up to 1,000 congregants by preventing overcrowding, maintaining clear egress paths, and providing a documented plan for peak-attendance events (Jummah, Taraweeh, Eid).
 
 ## 2. Scope
 Applies to all prayer halls, overflow spaces, entrances/exits, and outdoor areas used during any masjid gathering.
@@ -57,7 +57,8 @@ Health, Safety & Emergency Management Policy · Security Policy · Parking & Tra
 
 ## 7. Approval
 
-Approved by the ICN Bellevue Executive Committee on: ______________________
+Approved by the ICN Bellevue Board of Trustees on: ______________________
 
-Signature (Executive Committee Chair): ______________________
+Signature (Board Chair): ______________________
 
+Signature (Facility Manager): ______________________

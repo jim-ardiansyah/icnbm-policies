@@ -6,7 +6,7 @@
 |---|---|
 | Policy No. | ICN-11 |
 | Effective Date | *[To be entered upon Board adoption]* |
-| Approved By | *[Board of Directors]* |
+| Approved By | *[Board of Trustees]* |
 | Review Cycle | Annual, and before each Ramadan/Eid season |
 | Owner | Facility Manager / Security Committee |
 
@@ -47,7 +47,7 @@ Capacity & Crowd Management Policy · Security Policy
 
 ## 7. Approval
 
-Approved by the ICN Bellevue Board of Directors on: ______________________
+Approved by the ICN Bellevue Board of Trustees on: ______________________
 
 Signature (Board Chair): ______________________
 

@@ -6,7 +6,7 @@
 |---|---|
 | Policy No. | ICN-09 |
 | Effective Date | *[To be entered upon Board adoption]* |
-| Approved By | *[Board of Directors]* |
+| Approved By | *[Board of Trustees]* |
 | Review Cycle | Annual |
 | Owner | Youth Director / HR Committee |
 
@@ -44,7 +44,7 @@ Applies to all youth program staff, volunteers, and any area of the facility use
 1. Youth Director confirms background-check status before assigning any volunteer to a children's program.
 2. Sign-in/sign-out sheets and authorized pickup lists maintained for every session.
 3. Supervision ratios checked and logged at the start of each program.
-4. Any safety concern or incident involving a child is documented immediately and reported to the Executive Director and, where required by law, to the appropriate authorities.
+4. Any safety concern or incident involving a child is documented immediately and reported to the Executive Committee (EC) and, where required by law, to the appropriate authorities.
 
 ## 5. Roles & Responsibilities
 - **Youth Director**: Owns program safety compliance, ratios, and check-in/out system.
@@ -56,7 +56,7 @@ HR — Staff & Volunteer Policy · Security Policy · Health, Safety & Emergency
 
 ## 7. Approval
 
-Approved by the ICN Bellevue Board of Directors on: ______________________
+Approved by the ICN Bellevue Board of Trustees on: ______________________
 
 Signature (Board Chair): ______________________
 

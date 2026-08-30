@@ -5,10 +5,10 @@
 | | |
 |---|---|
 | Policy No. | ICN-04 |
-| Effective Date | *[To be entered upon Executive Committee adoption]* |
-| Approved By | *[Executive Committee]* |
+| Effective Date | *[To be entered upon Board adoption]* |
+| Approved By | *[Board of Trustees]* |
 | Review Cycle | Annual, and after any incident or drill |
-| Owner | Executive Committee/Facility Manager / Security Committee |
+| Owner | Facility Manager / Safety Committee |
 
 ---
 
@@ -54,7 +54,7 @@ The EAP is posted in staff areas and reviewed with all staff and key volunteers 
 - Any injury, near-miss, or safety-relevant event is logged on an Incident Report Form within 24 hours and reviewed monthly by the Safety/Facilities Committee.
 
 ### 3.7 Weather Closure Policy
-- Closure or delay decisions (severe storms, tornado warnings, extreme heat/cold advisories) are made by the Executive Director or designee, communicated via the mass notification system, and posted on the website/social media.
+- Closure or delay decisions (severe storms, tornado warnings, extreme heat/cold advisories) are made by the Executive Committee (EC) or designee, communicated via the mass notification system, and posted on the website/social media.
 
 ## 4. Procedures
 1. Facility Manager schedules and logs all fire-system inspections and AED/first-aid checks.
@@ -64,7 +64,7 @@ The EAP is posted in staff areas and reviewed with all staff and key volunteers 
 
 ## 5. Roles & Responsibilities
 - **Facility Manager**: Owns fire-system compliance, AED/first-aid readiness, incident log.
-- **Security Committee**: Runs annual drills, reviews incident reports, updates the EAP.
+- **Safety Committee**: Runs annual drills, reviews incident reports, updates the EAP.
 - **All Staff/Key Volunteers**: Know their role in the EAP and complete required safety training.
 
 ## 6. Related Policies
@@ -72,7 +72,7 @@ Capacity & Crowd Management Policy · Security Policy · Facility Maintenance Po
 
 ## 7. Approval
 
-Approved by the ICN Bellevue Board of Directors on: ______________________
+Approved by the ICN Bellevue Board of Trustees on: ______________________
 
 Signature (Board Chair): ______________________
 

@@ -5,10 +5,12 @@
 | | |
 |---|---|
 | Policy No. | ICN-17 |
-| Effective Date | *[To be entered upon Executive Committee adoption]* |
-| Approved By | *[Executive Committee]* |
+| Effective Date | *[To be entered upon Board adoption]* |
+| Approved By | *[Board of Trustees]* |
 | Review Cycle | Annual |
-| Owner | Executive Committee/Facility Manager |
+| Owner | Facility Manager |
+
+> This policy sets the day-to-day rules for anyone using the gymnasium — members, drop-in users, youth programs, and event attendees. It applies in addition to, not instead of, the Gymnasium Operations & Rental Policy (ICN-16), which governs bookings, pricing, and rental administration.
 
 ---
 
@@ -21,7 +23,7 @@ Applies to the gymnasium floor, bleachers, and directly associated ancillary spa
 ## 3. Policy Statement
 
 ### 3.1 Access & Hours
-- The gym is only open for use during posted hours (see the current weekly schedule posted at the entrance and in the Gymnasium Operations & Rental Policy).
+- The gym is only open for use during posted hours (see the current weekly schedule posted at the entrance and in the Gymnasium Operations & Rental Policy, §3.2).
 - Users may only be present during their scheduled program, booking, or posted open-use window — not before or after.
 - A Facility Manager or trained monitor must be present whenever the gym is in use; do not use the gym if no staff/monitor is on-site.
 - Entry is through designated doors only. Do not prop open exterior doors or admit others without staff knowledge.
@@ -97,7 +99,8 @@ Gymnasium Operations & Rental Policy (ICN-16) · Children, Youth & Family Safety
 
 ## 8. Approval
 
-Approved by the ICN Bellevue Executive Committee on: ______________________
+Approved by the ICN Bellevue Board of Trustees on: ______________________
 
-Signature (Executive Committee Chair): ______________________
+Signature (Board Chair): ______________________
 
+Signature (Facility Manager): ______________________

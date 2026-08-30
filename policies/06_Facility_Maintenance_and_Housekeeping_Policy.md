@@ -6,7 +6,7 @@
 |---|---|
 | Policy No. | ICN-06 |
 | Effective Date | *[To be entered upon Board adoption]* |
-| Approved By | *[Board of Directors]* |
+| Approved By | *[Board of Trustees]* |
 | Review Cycle | Annual |
 | Owner | Facility Manager |
 
@@ -65,7 +65,7 @@ Utilities & Sustainability Policy · Insurance & Legal Compliance Policy · Fina
 
 ## 7. Approval
 
-Approved by the ICN Bellevue Board of Directors on: ______________________
+Approved by the ICN Bellevue Board of Trustees on: ______________________
 
 Signature (Board Chair): ______________________
 

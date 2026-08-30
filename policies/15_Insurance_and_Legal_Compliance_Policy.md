@@ -6,7 +6,7 @@
 |---|---|
 | Policy No. | ICN-15 |
 | Effective Date | *[To be entered upon Board adoption]* |
-| Approved By | *[Board of Directors]* |
+| Approved By | *[Board of Trustees]* |
 | Review Cycle | Annual |
 | Owner | Board Treasurer / Legal Committee |
 
@@ -54,7 +54,7 @@ Facility Maintenance & Housekeeping Policy · Community Services & Event Managem
 
 ## 7. Approval
 
-Approved by the ICN Bellevue Board of Directors on: ______________________
+Approved by the ICN Bellevue Board of Trustees on: ______________________
 
 Signature (Board Chair): ______________________
 

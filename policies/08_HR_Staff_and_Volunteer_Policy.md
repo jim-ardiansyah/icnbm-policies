@@ -6,9 +6,9 @@
 |---|---|
 | Policy No. | ICN-08 |
 | Effective Date | *[To be entered upon Board adoption]* |
-| Approved By | *[Board of Directors]* |
+| Approved By | *[Board of Trustees]* |
 | Review Cycle | Annual |
-| Owner | Executive Director / HR Committee |
+| Owner | Executive Committee (EC) / HR Committee |
 
 ---
 
@@ -21,7 +21,7 @@ Applies to all paid staff, contract staff, and volunteers of ICN Bellevue.
 ## 3. Policy Statement
 
 ### 3.1 Job Descriptions & Reporting Lines
-- Written job descriptions are maintained for the Imam, Facility Manager, custodial staff, front-desk/admin staff, and Youth Director, each with a clear reporting line to the Executive Director.
+- Written job descriptions are maintained for the Imam, Facility Manager, custodial staff, front-desk/admin staff, and Youth Director, each with a clear reporting line to the Executive Committee (EC).
 
 ### 3.2 Volunteer Policy
 - All volunteers complete a brief application and orientation before taking on a recurring role.
@@ -38,7 +38,7 @@ Applies to all paid staff, contract staff, and volunteers of ICN Bellevue.
 - A confidential process for reporting concerns is available to all staff and volunteers (see Section 3.5).
 
 ### 3.5 Grievance Procedure
-- Staff or volunteers may raise concerns to the Executive Director or, if the concern involves the Executive Director, directly to the Board Chair.
+- Staff or volunteers may raise concerns to the Executive Committee (EC) or, if the concern involves the Executive Committee (EC), directly to the Board Chair.
 - All grievances are documented and reviewed confidentially within 10 business days.
 
 ### 3.6 Training Requirements
@@ -53,17 +53,17 @@ Applies to all paid staff, contract staff, and volunteers of ICN Bellevue.
 4. Grievances logged confidentially and reviewed per the timeline above.
 
 ## 5. Roles & Responsibilities
-- **Executive Director**: Manages staff, oversees hiring, first point of contact for grievances.
+- **Executive Committee (EC)**: Manages staff, oversees hiring, first point of contact for grievances.
 - **HR Committee**: Maintains job descriptions, training roster, and background-check records.
-- **Board Chair**: Handles grievances involving the Executive Director.
+- **Board Chair**: Handles grievances involving the Executive Committee (EC).
 
 ## 6. Related Policies
 Children, Youth & Family Safety Policy · Governance & Administration Policy · Community Code of Conduct Policy
 
 ## 7. Approval
 
-Approved by the ICN Bellevue Board of Directors on: ______________________
+Approved by the ICN Bellevue Board of Trustees on: ______________________
 
 Signature (Board Chair): ______________________
 
-Signature (Executive Director): ______________________
+Signature (Executive Committee (EC)): ______________________

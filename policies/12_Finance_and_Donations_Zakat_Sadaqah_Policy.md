@@ -6,7 +6,7 @@
 |---|---|
 | Policy No. | ICN-12 |
 | Effective Date | *[To be entered upon Board adoption]* |
-| Approved By | *[Board of Directors / Finance Committee]* |
+| Approved By | *[Board of Trustees / Finance Committee]* |
 | Review Cycle | Annual |
 | Owner | Finance Committee / Treasurer |
 
@@ -48,14 +48,14 @@ Applies to all donation collection (cash boxes, online giving, event fundraising
 ## 5. Roles & Responsibilities
 - **Treasurer**: Manages bank deposits, fund ledgers, and budget tracking.
 - **Finance/Zakat Committee**: Approves Zakat disbursements, oversees the annual audit.
-- **Board of Directors**: Approves the annual budget and reviews audit results.
+- **Board of Trustees**: Approves the annual budget and reviews audit results.
 
 ## 6. Related Policies
 Governance & Administration Policy · Community Services & Event Management Policy
 
 ## 7. Approval
 
-Approved by the ICN Bellevue Board of Directors on: ______________________
+Approved by the ICN Bellevue Board of Trustees on: ______________________
 
 Signature (Board Chair): ______________________
 

@@ -5,10 +5,12 @@
 | | |
 |---|---|
 | Policy No. | ICN-16 |
-| Effective Date | *[To be entered upon Executive Committee adoption]* |
-| Approved By | *[Executive Committee]* |
+| Effective Date | *[To be entered upon Board adoption]* |
+| Approved By | *[Board of Trustees]* |
 | Review Cycle | Annual; rates reviewed each spring |
-| Owner | Executive Committee/Facility Manager |
+| Owner | Facility Manager |
+
+> **Status:** Draft for Board adoption and legal review. In any conflict between this policy and a signed rental agreement, the more restrictive term controls unless the Facilities Manager and Board expressly agree otherwise in writing.
 
 ---
 
@@ -336,12 +338,14 @@ Weekends are rental-priority and must be reservable through an online reservatio
 *ICN Bellevue publishes the current blackout calendar in the reservation system each year. Prayer times are not blackouts but always take precedence during events.*
 
 **Online reservation system — required workflow**
-1. Submit Request: The renter must complete the facility rental request form online and upload all required documents and attachments.
-2. Review Request: The Facility Manager (FM) reviews the request for eligibility, scheduling conflicts, staffing requirements, and compliance with masjid rules. The FM may approve the request, request additional information or changes, or decline the request within the established confirmation timeline.
-3. Rental Agreement and Payment: Once approved, the system will issue the rental agreement for electronic signature along with the payment schedule, including the required deposit and remaining balance.
-4. Confirm Booking: The renter must electronically sign the rental agreement, pay the required deposit, and provide a Certificate of Insurance (COI), if required. The reservation is considered Confirmed once all required items are completed.
-5. Reminders: Automated reminders may be sent regarding the remaining balance, COI submission deadline, and event-day instructions.
-6. Post-Event Review: After the event, masjid staff will complete the facility inspection and deposit/refund checklist. The deposit will be refunded according to the rental agreement, less any applicable charges for damages, additional cleaning, missing items, or violations of the rental terms.
+1. Renter creates an account and selects date/time and space; the calendar shows only open, eligible slots (NIA hours, buffers, blackouts are blocked automatically).
+2. Renter completes the request form and uploads required attachments.
+3. System calculates an estimated quote (base + fees + any security/COI flags) and collects the non-refundable booking fee to hold the date (soft hold pending approval).
+4. FM reviews for eligibility, conflicts, staffing, and rule fit; approves, requests changes, or declines within the confirmation timeline (below).
+5. On approval, the system issues the rental agreement for e-signature and a payment schedule (deposit + balance).
+6. Renter e-signs, pays the deposit, and uploads COI if required; booking becomes Confirmed.
+7. Automated reminders go out (balance due date, COI due date, event-day instructions).
+8. After the event, staff complete the deposit/refund checklist; the system refunds the deposit less any charges.
 
 **Reservation form fields**
 - Organization/individual name and type (member / nonprofit / commercial / private).
@@ -459,11 +463,13 @@ Capacity & Crowd Management Policy (ICN-02) · Health, Safety & Emergency Manage
 
 ## 7. Approval
 
-Approved by the ICN Bellevue Executive Committee on: ______________________
+Board approval required for: final pricing schedule; alcohol/smoking prohibition (already fixed); security thresholds; insurance minimums; and any political-event policy.
 
-Signature (Executive Committee Chair): ______________________
+Legal review required for: occupancy/placard, permits, tax treatment, insurance wording, ADA sign-off, noise limits, and the rental agreement/indemnity language.
 
-Approved by the ICN Bellevue Board of Directors on: ______________________
+*The NIA weekday dedication is governed by a separate MOU/lease; ensure it aligns with this policy.*
+
+Approved by the ICN Bellevue Board of Trustees on: ______________________
 
 Signature (Board Chair): ______________________
 
