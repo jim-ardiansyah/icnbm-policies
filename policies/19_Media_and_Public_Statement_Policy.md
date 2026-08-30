@@ -21,7 +21,7 @@ Applies to all staff, volunteers, Trustees, and the Imam when speaking or writin
 ## 3. Policy Statement
 
 ### 3.1 Authorized Spokespersons
-- The **Executive Committee (EC)** and the **Executive Committee Chair** are the default authorized spokespersons for ICN Bellevue on operational, administrative, and organizational matters.
+- The  **Executive Committee Chair** are the default authorized spokespersons for ICN Bellevue on operational, administrative, and organizational matters.
 - The **Imam** is the default authorized spokesperson on religious/theological matters.
 - Any other staff, volunteer, or Trustee speaking to media or issuing a public statement on ICN Bellevue's behalf must be specifically designated for that purpose in advance.
 - No individual may claim to speak "for the mosque" or "on behalf of ICN Bellevue" without this authorization, even if their intent is well-meaning.
@@ -65,4 +65,3 @@ Approved by the ICN Bellevue Board of Trustees on: ______________________
 
 Signature (Executive Committee Chair): ______________________
 
-Signature (Executive Committee (EC)): ______________________
