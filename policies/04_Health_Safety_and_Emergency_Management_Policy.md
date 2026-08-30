@@ -76,4 +76,4 @@ Approved by the ICN Bellevue Board of Trustees on: ______________________
 
 Signature (	Executive Committee Chair): ______________________
 
-Signature (Security Committee): ______________________
+Signature (Security Committee Chair): ______________________
