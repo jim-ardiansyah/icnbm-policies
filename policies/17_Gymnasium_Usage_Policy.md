@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | Policy No. | ICN-17 |
-| Effective Date | *[To be entered upon Board adoption]* |
+| Effective Date | *[To be entered upon EC adoption]* |
 | Approved By | *[Board of Trustees]* |
 | Review Cycle | Annual |
 | Owner | Facility Manager |
@@ -98,6 +98,12 @@ Applies to the gymnasium floor, bleachers, and directly associated ancillary spa
 Gymnasium Operations & Rental Policy (ICN-16) · Children, Youth & Family Safety Policy (ICN-09) · Health, Safety & Emergency Management Policy (ICN-04) · Security Policy (ICN-05) · Community Code of Conduct Policy (ICN-14)
 
 ## 8. Approval
+Approved by the ICN Bellevue Board of Trustees on: ______________________
+
+Signature (Executive Committee Chair): ______________________
+
+Signature (Facility Manager): ______________________
+
 
 Approved by the ICN Bellevue Board of Trustees on: ______________________
 
