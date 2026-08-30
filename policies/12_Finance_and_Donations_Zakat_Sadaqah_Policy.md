@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | Policy No. | ICN-12 |
-| Effective Date | *[To be entered upon Board adoption]* |
+| Effective Date | *[To be entered upon EC adoption]* |
 | Approved By | *[Board of Trustees / Finance Committee]* |
 | Review Cycle | Annual |
 | Owner | Finance Committee / Treasurer |
@@ -57,6 +57,6 @@ Governance & Administration Policy · Community Services & Event Management Poli
 
 Approved by the ICN Bellevue Board of Trustees on: ______________________
 
-Signature (Board Chair): ______________________
+Signature (Executive Committee Chair): ______________________
 
-Signature (Treasurer): ______________________
+Signature (EC Treasurer): ______________________
