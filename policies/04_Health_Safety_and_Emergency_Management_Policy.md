@@ -5,10 +5,10 @@
 | | |
 |---|---|
 | Policy No. | ICN-04 |
-| Effective Date | *[To be entered upon Board adoption]* |
+| Effective Date | *[To be entered upon EC adoption]* |
 | Approved By | *[Board of Trustees]* |
 | Review Cycle | Annual, and after any incident or drill |
-| Owner | Facility Manager / Safety Committee |
+| Owner | 	Executive Committee (EC) / Security Committee |
 
 ---
 
@@ -74,6 +74,6 @@ Capacity & Crowd Management Policy · Security Policy · Facility Maintenance Po
 
 Approved by the ICN Bellevue Board of Trustees on: ______________________
 
-Signature (Board Chair): ______________________
+Signature (	Executive Committee Chair): ______________________
 
-Signature (Facility Manager): ______________________
+Signature (Security Committee): ______________________
