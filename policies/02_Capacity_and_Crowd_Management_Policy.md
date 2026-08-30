@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | Policy No. | ICN-02 |
-| Effective Date | *[To be entered upon Board adoption]* |
+| Effective Date | *[To be entered upon EC adoption]* |
 | Approved By | *[Board of Trustees]* |
 | Review Cycle | Annual, and before each Ramadan/Eid season |
 | Owner | Facility Manager / Security Committee |
