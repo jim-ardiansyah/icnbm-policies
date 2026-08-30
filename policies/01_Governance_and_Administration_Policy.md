@@ -6,9 +6,9 @@
 |---|---|
 | Policy No. | ICN-01 |
 | Effective Date | *[To be entered upon Board adoption]* |
-| Approved By | *[Board of Trustees / Shura Council]* |
+| Approved By | *[Board of Trustees]* |
 | Review Cycle | Annual, or after any governance change |
-| Owner | Executive Committee (EC) / Board Chair |
+| Owner | Executive Committee (EC) / Executive Committee Chair |
 
 ---
 
@@ -16,17 +16,16 @@
 To define the governance structure, decision-making authority, and administrative accountability of ICN Bellevue so that staff, volunteers, and the community understand how the masjid is led and how policies are created, approved, and enforced.
 
 ## 2. Scope
-Applies to the Board of Trustees (Shura Council), Executive Committee (EC)/Facility Manager, all department heads, committees, staff, and volunteers.
+Applies to the Board of Trustees, Executive Committee (EC)/Facility Manager, all Sub Committees, staff, and volunteers.
 
 ## 3. Policy Statement
-ICN Bellevue shall be governed by a Board of Trustees (Shura Council) that holds ultimate fiduciary and religious-administrative responsibility for the organization. Day-to-day operations are delegated to an Executive Committee (EC) or Facility Manager, who directs department heads across Operations, Religious Affairs (Imam), Finance, Security, Volunteers, and Events.
+ICN Bellevue shall be governed by a Board of Trustees that holds ultimate fiduciary and religious-administrative responsibility for the organization. Day-to-day operations are delegated to an Executive Committee (EC) or Facility Manager, who directs Sub Committees across Operations, Religious Affairs (Imam), Finance, Security, Volunteers, and Events.
 
 ### 3.1 Organizational Structure
-- **Board of Trustees / Shura Council** — sets strategic direction, approves budgets, approves/amends all policies, hires and evaluates the Executive Committee (EC) and Imam.
+- **Board of Trustees** — sets strategic direction, approves budgets, approves/amends all policies, hires and evaluates the Executive Committee (EC) and Imam.
 - **Executive Committee (EC) / Facility Manager** — implements Board policy, manages staff, oversees daily operations, reports monthly to the Board.
 - **Imam / Religious Affairs** — leads religious programming and rulings on matters of fiqh in coordination with the Board's religious committee.
-- **Department Heads** — Operations, Finance, Security, Volunteer Coordination, Events, Youth.
-- **Standing Committees** — Facilities, Finance/Zakat, Youth, Sisters' Affairs, Security, Events — each chartered by the Board with a defined mandate and reporting line.
+- **Sub Committees** — Operations, Finance/Zakat, Security, Volunteer Coordination, Events, Youth, Facilities, and Sisters' Affairs — each chartered by the Board with a defined mandate, lead, and reporting line.
 
 ### 3.2 Policy Governance
 - All new or amended policies must be reviewed by the relevant committee, then formally approved by Board vote and recorded in meeting minutes.
@@ -49,7 +48,7 @@ ICN Bellevue shall be governed by a Board of Trustees (Shura Council) that holds
 5. Logged in the Policy Register with effective date and next review date.
 
 ## 5. Roles & Responsibilities
-- **Board Chair**: Presides over Board meetings; final sign-off on policy adoption.
+- **Executive Committee Chair**: Presides over Board meetings; final sign-off on policy adoption.
 - **Executive Committee (EC)**: Implements approved policies; maintains the policy manual.
 - **Committee Chairs**: Draft and recommend policies within their domain.
 
@@ -60,6 +59,6 @@ Code of Conduct Policy · Finance & Donations Policy · HR Staff & Volunteer Pol
 
 Approved by the ICN Bellevue Board of Trustees on: ______________________
 
-Signature (Board Chair): ______________________
+Signature (Executive Committee Chair): ______________________
 
 Signature (Executive Committee (EC)): ______________________

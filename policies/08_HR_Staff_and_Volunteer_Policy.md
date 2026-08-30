@@ -38,7 +38,7 @@ Applies to all paid staff, contract staff, and volunteers of ICN Bellevue.
 - A confidential process for reporting concerns is available to all staff and volunteers (see Section 3.5).
 
 ### 3.5 Grievance Procedure
-- Staff or volunteers may raise concerns to the Executive Committee (EC) or, if the concern involves the Executive Committee (EC), directly to the Board Chair.
+- Staff or volunteers may raise concerns to the Executive Committee (EC) or, if the concern involves the Executive Committee (EC), directly to the Executive Committee Chair.
 - All grievances are documented and reviewed confidentially within 10 business days.
 
 ### 3.6 Training Requirements
@@ -55,7 +55,7 @@ Applies to all paid staff, contract staff, and volunteers of ICN Bellevue.
 ## 5. Roles & Responsibilities
 - **Executive Committee (EC)**: Manages staff, oversees hiring, first point of contact for grievances.
 - **HR Committee**: Maintains job descriptions, training roster, and background-check records.
-- **Board Chair**: Handles grievances involving the Executive Committee (EC).
+- **Executive Committee Chair**: Handles grievances involving the Executive Committee (EC).
 
 ## 6. Related Policies
 Children, Youth & Family Safety Policy · Governance & Administration Policy · Community Code of Conduct Policy
@@ -64,6 +64,6 @@ Children, Youth & Family Safety Policy · Governance & Administration Policy · 
 
 Approved by the ICN Bellevue Board of Trustees on: ______________________
 
-Signature (Board Chair): ______________________
+Signature (Executive Committee Chair): ______________________
 
 Signature (Executive Committee (EC)): ______________________
