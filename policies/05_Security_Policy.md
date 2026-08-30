@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | Policy No. | ICN-05 |
-| Effective Date | *[To be entered upon Board adoption]* |
+| Effective Date | *[To be entered upon EC adoption]* |
 | Approved By | *[Board of Trustees]* |
 | Review Cycle | Annual, and after any security incident |
 | Owner | Security Committee |
@@ -69,6 +69,6 @@ Health, Safety & Emergency Management Policy · Capacity & Crowd Management Poli
 
 Approved by the ICN Bellevue Board of Trustees on: ______________________
 
-Signature (Board Chair): ______________________
+Signature (	Executive Committee Chair): ______________________
 
 Signature (Security Committee Chair): ______________________
