@@ -104,9 +104,3 @@ Signature (Executive Committee Chair): ______________________
 
 Signature (Facility Manager): ______________________
 
-
-Approved by the ICN Bellevue Board of Trustees on: ______________________
-
-Signature (Board Chair): ______________________
-
-Signature (Facility Manager): ______________________
