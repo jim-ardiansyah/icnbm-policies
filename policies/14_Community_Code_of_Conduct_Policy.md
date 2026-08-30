@@ -5,10 +5,10 @@
 | | |
 |---|---|
 | Policy No. | ICN-14 |
-| Effective Date | *[To be entered upon Board adoption]* |
+| Effective Date | *[To be entered upon EC adoption]* |
 | Approved By | *[Board of Trustees]* |
 | Review Cycle | Annual |
-| Owner | Board of Trustees |
+| Owner |Executive Committee (EC) |
 
 ---
 
@@ -54,4 +54,4 @@ HR — Staff & Volunteer Policy · Security Policy
 
 Approved by the ICN Bellevue Board of Trustees on: ______________________
 
-Signature (Board Chair): ______________________
+Signature (Executive Committee Chair): ______________________
