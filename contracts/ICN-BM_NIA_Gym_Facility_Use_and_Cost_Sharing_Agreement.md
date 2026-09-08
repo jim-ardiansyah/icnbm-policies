@@ -10,8 +10,6 @@
 | Review Cycle | Annual, and before each renewal term |
 | Owner | Executive Committee (EC) / Facility Manager |
 
-> **DRAFT FOR LEGAL REVIEW** — This is a working template, not an executed legal document. Both parties should have this agreement reviewed by independent counsel, and ICN Bellevue's insurance broker should confirm coverage adequacy, before signature.
-
 ---
 
 ## 1. Parties & Recitals
