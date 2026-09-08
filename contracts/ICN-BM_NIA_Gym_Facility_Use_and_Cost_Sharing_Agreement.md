@@ -123,12 +123,6 @@ NIA will indemnify, defend, and hold harmless ICN Bellevue, its Trustees, Execut
 
 ## 10. Insurance Requirements
 
-NIA will maintain, throughout the Term, and provide ICN Bellevue a Certificate of Insurance evidencing:
-
-- Commercial General Liability insurance of at least $1,000,000 per occurrence / $2,000,000 aggregate, naming "Islamic Center of Nashville at Bellevue Mosque" as an additional insured for activities under this Agreement.
-- Student accident/medical insurance or equivalent coverage for NIA students participating in Gymnasium activities, consistent with NIA's standard school insurance program.
-- Workers' compensation insurance covering NIA staff, as required by Tennessee law.
-
 ICN Bellevue will maintain its own general liability, property, and umbrella insurance for the Gymnasium consistent with the Insurance & Legal Compliance Policy (ICN-15).
 
 ## 11. Access, Security & Keys
