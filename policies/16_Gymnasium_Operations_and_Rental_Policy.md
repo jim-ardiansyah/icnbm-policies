@@ -42,34 +42,36 @@ This policy applies to the gymnasium floor, bleachers, stage, storage, and direc
 ## 3. Policy Statement
 
 ### 3.1 Priority of Use (highest to lowest)
-1. ICN Bellevue religious observances and congregational needs (including daily prayer times).
-2. NIA weekday program, 8 AM–4 PM Mon–Fri (contractual).
-3. ICN Bellevue community, youth, and internal programs.
+1. ICN religious observances and congregational needs (including daily prayer times).
+2. NIA weekday program, 8 AM–3:30 PM Mon–Fri during school year (contractual) 
+3. ICN community, youth, and internal programs.
 4. Weekend rentals (prioritized Sat–Sun) and weekday evening rentals.
 
 ### 3.2 Operating Hours & Access
 
 **Hard constraints (non-negotiable):**
 - Weekdays 8:00 AM–4:00 PM: facility reserved and closed to the public — dedicated to NIA. No public rentals or drop-in use.
-- Weekdays 4:00 PM–5:00 PM: cleaning/turnover buffer — closed to the public.
-- Weekday public hours begin at 5:00 PM.
+- Weekdays 3:30 PM–4:00 PM: cleaning/turnover buffer — closed to the public.
+- Weekdays and Weekend after Fajr to 7:30 AM: public access is available by reservation only
+- Weekday public hours begin at 4:00 PM - 10:00 PM.
 - Weekends (Sat–Sun): rental-priority; must be reservable via the online reservation system.
+
 - Alcohol, illegal drugs, and smoking/vaping are prohibited on ICN Bellevue property at all times.
 
 **Standard weekly schedule**
 
 | Day | Block | Designated Use | Access |
 |---|---|---|---|
-| Mon–Fri | 8:00 AM – 4:00 PM | NIA dedicated use | Closed to public; NIA only |
-| Mon–Fri | 4:00 PM – 5:00 PM | Cleaning & turnover buffer | Closed; staff only |
-| Mon–Fri | 5:00 PM – 10:00 PM | Community programs & public rentals | Open (reservation or program) |
+| Mon–Fri | 8:00 AM – 3:30 PM | NIA dedicated use | Closed to public; NIA only |
+| Mon–Fri | 3:30 PM – 4:00 PM | Cleaning & turnover buffer | Closed; staff only |
+| Mon–Fri | 4:00 PM – 10:00 PM | Community programs & public rentals | Open (reservation or program) |
 | Saturday | 8:00 AM – 11:00 PM* | Rental-priority (reservable online) | Open — book online |
 | Sunday | 8:00 AM – 11:00 PM* | Rental-priority (reservable online) | Open — book online |
 
 *Hours illustrative; confirm final open/close times with the Board.*
 
 **Access rules**
-- No public entry during NIA hours or the turnover buffer. Doors open to the public no earlier than 5:00 PM on weekdays.
+- No public entry during NIA hours or the turnover buffer. Doors open to the public no earlier than 4:00 PM on weekdays.
 - Prayer times take precedence over any activity. Activity may pause briefly; renters are notified of expected prayer windows at booking.
 - Access is granted only for the reserved space(s) and time(s). Doors, mechanical rooms, offices, and prayer halls are off-limits unless expressly included.
 - The Facilities Manager (or designee) or a staff monitor must be on-site whenever the facility is open to renters.
@@ -80,20 +82,19 @@ This policy applies to the gymnasium floor, bleachers, stage, storage, and direc
 | User Category | Eligible? | Notes |
 |---|---|---|
 | ICN Bellevue internal programs | Yes — no rental fee | Scheduled through FM; still subject to conduct/safety rules. |
-| NIA | Dedicated hours (no fee for contracted block) | Additional/after-hours use booked at ICN-program rates. |
+| NIA | Dedicated hours (no fee for contracted block) | Additional/after-hours use reservation online system |
 | ICN members (in good standing) | Yes — member rate | Member must be the responsible signer and present at event. |
 | Community individuals / families | Yes — community rate | Standard agreement, and deposit. |
 | Registered nonprofits / schools / civic groups | Yes — nonprofit rate | Provide proof of nonprofit status (e.g., IRS letter). |
 | Commercial / for-profit organizations | Yes — commercial rate | Higher rate; security typically required. |
 | Private social events (weddings, receptions) | Yes — private-event rate | Deposit, security threshold, catering rules apply. |
-| Political / advocacy events | Case-by-case — Board approval | See §3.4.3; must not jeopardize nonprofit/tax status. |
 
 ICN Bellevue reserves the right to decline any booking that conflicts with its religious mission, values, safety, or legal/insurance obligations, or that would jeopardize its nonprofit status. Denials are documented and may be appealed.
 
 ### 3.4 Permitted & Prohibited Uses
 
 **3.4.1 Generally permitted (with a proper booking)**
-- Basketball, volleyball, futsal/indoor soccer, badminton, and similar court sports; practices, clinics, leagues, and tournaments.
+- Basketball, volleyball, badminton, and pickleball.
 - Youth programs, camps, scouting, and educational/enrichment activities.
 - Community gatherings, lectures, fundraisers, banquets, and cultural events.
 - Weddings (nikah), walimah/receptions, and family celebrations consistent with Center values.
@@ -110,8 +111,7 @@ ICN Bellevue reserves the right to decline any booking that conflicts with its r
 - Exceeding the posted occupancy or blocking exits.
 
 **3.4.3 Restricted — require Board approval**
-- Political campaign events, partisan rallies, or candidate fundraisers — reviewed for neutrality and nonprofit-status impact; if permitted, no endorsement is implied and equal-access principles apply.
-- Ticketed public events, concerts, or large commercial productions (added security/insurance).
+- Ticketed public and religious events.
 - Amplified sound beyond normal PA use, or events running near closing time.
 - Cooking/food preparation on-site (vs. delivered/warmed food) — see food & kitchen rules and Health permits.
 
@@ -151,7 +151,7 @@ ICN Bellevue reserves the right to decline any booking that conflicts with its r
 
 Security is arranged by ICN Bellevue (using approved licensed personnel or off-duty officers) and billed to the renter. Thresholds below are recommendations based on common venue practice; the FM may raise requirements for higher-risk events (late hours, cash handling, public ticketing, youth safety).
 
-| Event Size / Type | Security Required | Rationale |
+| Event Size / Type | Security Recommendation | Rationale |
 |---|---|---|
 | Under 50, low-risk (practice, small meeting) | None required (staff monitor present) | Low crowd/risk; FM/monitor sufficient. |
 | 50–150 attendees | 1 security officer | Crowd management, door control. |
@@ -260,55 +260,6 @@ Security staffing surcharge is billed at cost per officer-hour (see §3.13). ICN
 
 *Overtime rationale: $25/15 min (= $100/hr) is punitive enough to protect turnover and the next booking while remaining fair. Security at cost avoids markup on a safety requirement.*
 
-**Example package pricing (illustrative)**
-
-*Package A — Hourly practice (member youth team, 1.5 hr weekday evening)*
-
-| Line item | Calc | Amount |
-|---|---|---|
-| Base rate (member) | $40 × 1.5 hr | $60 |
-| Booking fee (member) | flat | $50 |
-| Cleaning fee (small) | flat | $75 |
-| Damage deposit (small, refundable) | held | $200 (refunded) |
-| **Estimated cost (excl. refundable deposit)** | | **$185** |
-
-*Package B — 4-hour weekend rental (nonprofit community event, ~120 people)*
-
-| Line item | Calc | Amount |
-|---|---|---|
-| Half-day base (nonprofit) | 4 hr block | $190 |
-| Booking fee | flat | $50 |
-| Cleaning fee (standard) | flat | $150 |
-| Security (1 officer × 4 hr) | $55 × 4 | $220 |
-| Damage deposit (standard, refundable) | held | $500 (refunded) |
-| **Estimated cost (excl. refundable deposit)** | | **$610** |
-
-*Package C — Evening event 5–10 PM (private reception, ~200 people, weekday)*
-
-| Line item | Calc | Amount |
-|---|---|---|
-| Base (private, 5 hr @ hourly) | $110 × 5 | $550 |
-| Booking fee (private) | flat | $100 |
-| Cleaning fee (large) | flat | $300 |
-| Floor protection (banquet) | flat | $100 |
-| Security (2 officers × 5 hr @ $55) | $110 × 5 | $550 |
-| AV/tech (2 hr) | $35 × 2 | $70 |
-| Kitchen (warming) | flat | $75 |
-| Damage deposit (large, refundable) | held | $1,000 (refunded) |
-| **Estimated cost (excl. refundable deposit)** | | **$1,745** |
-
-*Package D — Full weekend day (commercial event, 8 hr, ~300 people)*
-
-| Line item | Calc | Amount |
-|---|---|---|
-| Full-day base (commercial) | 8 hr block | $1,000 |
-| Booking fee (commercial) | flat | $100 |
-| Cleaning fee (large) | flat | $300 |
-| Floor protection | flat | $100 |
-| Security (3 officers × 8 hr @ $60) | $180 × 8 | $1,440 |
-| AV/tech (6 hr) | $35 × 6 | $210 |
-| Damage deposit (large, refundable) | held | $1,000 (refunded) |
-| **Estimated cost (excl. refundable deposit)** | | **$3,250** |
 
 **NIA & ICN program rates / discounts**
 - NIA: no fee for its contracted weekday 8 AM–4 PM block. Any additional/after-hours NIA use is booked at the ICN-internal (no-fee) or member rate, at Board discretion, and still counts against public availability.
