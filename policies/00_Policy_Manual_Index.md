@@ -20,3 +20,4 @@
 | 18 | Photo/Video Consent & Release | 18_Photo_Video_Consent_and_Release_Policy.md |
 | 19 | Media & Public Statement | 19_Media_and_Public_Statement_Policy.md |
 | 20 | Concession / Vendor | 22_Concession_Vendor_Policy.md |
+| 21 | Camera Surveillance Video | 21_Camera_Surveillance_Video_Policy.md |
