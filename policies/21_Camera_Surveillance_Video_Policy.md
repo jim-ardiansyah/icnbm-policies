@@ -1,6 +1,5 @@
 # Camera Surveillance & Video Recording Policy
 
-Oct 2, 2026 · @Kyle Anderson
 
 **Islamic Center of Nashville at Bellevue Mosque (ICN Bellevue)**
 
