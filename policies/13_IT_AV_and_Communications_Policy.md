@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Policy No. | ICN-13 |
-| Effective Date | *[To be entered upon EC adoption]* |
-| Approved By | *[Board of Trustees]* |
+| Effective Date |  10/15/2026 |
+| Approved By | EC Chair |
 | Review Cycle | Annual |
 | Owner | IT/Communications Committee |
 
@@ -26,12 +26,12 @@ Applies to all digital platforms operated in ICN Bellevue's name, and all AV equ
 - Recordings are stored on an approved, access-controlled platform.
 
 ### 3.2 Website & Social Media
-- Administrative access to the website and social media accounts is limited to designated staff/volunteers approved by the Executive Committee (EC).
+- Administrative access to the website and social media accounts is limited to designated staff/volunteers approved by the Executive Councill (EC).
 - Content (announcements, event postings, fundraising appeals) follows a review step before publishing for anything financial or religiously sensitive.
 
 ### 3.3 Mass Communication / Emergency Alerts
 - ICN Bellevue maintains an SMS/email/app-based notification system for closures, delays, and emergencies.
-- The Executive Committee (EC) or designee is authorized to trigger emergency alerts without prior Board approval, given the time-sensitive nature of such notices.
+- The Executive Councill (EC) or designee is authorized to trigger emergency alerts without prior Board approval, given the time-sensitive nature of such notices.
 
 ### 3.4 Guest Wi-Fi
 - A separate guest Wi-Fi network is provided, with content filtering enabled given use by youth programs.
@@ -43,7 +43,7 @@ Applies to all digital platforms operated in ICN Bellevue's name, and all AV equ
 
 ## 5. Roles & Responsibilities
 - **IT/Communications Coordinator**: Manages platform access, guest Wi-Fi, and alert system.
-- **Executive Committee (EC)**: Authorized to issue emergency communications.
+- **Executive Councill (EC)**: Authorized to issue emergency communications.
 
 ## 6. Related Policies
 Security Policy · Health, Safety & Emergency Management Policy

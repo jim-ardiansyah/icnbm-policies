@@ -5,10 +5,10 @@
 | | |
 |---|---|
 | Policy No. | ICN-14 |
-| Effective Date | *[To be entered upon EC adoption]* |
-| Approved By | *[Board of Trustees]* |
+| Effective Date |  10/15/2026 |
+| Approved By | EC Chair |
 | Review Cycle | Annual |
-| Owner |Executive Committee (EC) |
+| Owner |Executive Councill (EC) |
 
 ---
 
@@ -23,7 +23,7 @@ Applies to all congregants, staff, volunteers, and visitors at ICN Bellevue.
 ### 3.1 General Expectations
 - Phones silenced during khutbah and prayer.
 - Children supervised by a parent/guardian outside of designated youth-program hours.
-- Solicitation, fundraising, or distribution of materials on the premises requires prior approval from the Executive Committee (EC).
+- Solicitation, fundraising, or distribution of materials on the premises requires prior approval from the Executive Councill (EC).
 - Dress-code guidance for visitors is posted at entrances, offered respectfully and without judgment.
 
 ### 3.2 Inclusion Statement
@@ -31,20 +31,20 @@ ICN Bellevue welcomes Muslims of all backgrounds and schools of thought, new Mus
 
 ### 3.3 Respectful Conduct
 - Harassment, discrimination, verbal abuse, or violence of any kind is prohibited on the premises.
-- Disagreements are expected to be handled calmly and respectfully; any dispute that cannot be resolved informally is referred to the Executive Committee (EC).
+- Disagreements are expected to be handled calmly and respectfully; any dispute that cannot be resolved informally is referred to the Executive Councill (EC).
 
 ### 3.4 Enforcement
 - Minor violations are addressed with a respectful verbal reminder by staff or volunteers.
-- Repeated or serious violations (harassment, violence, theft, vandalism) are documented and may result in a formal warning or, in serious cases, restriction from the premises, at the discretion of the Executive Committee (EC) and Board.
+- Repeated or serious violations (harassment, violence, theft, vandalism) are documented and may result in a formal warning or, in serious cases, restriction from the premises, at the discretion of the Executive Councill (EC) and Board.
 
 ## 4. Procedures
 1. Code of Conduct posted at all entrances and included in new-member/volunteer orientation.
-2. Any serious violation is documented on an Incident Report Form and reviewed by the Executive Committee (EC) within 5 business days.
+2. Any serious violation is documented on an Incident Report Form and reviewed by the Executive Councill (EC) within 5 business days.
 3. Restriction decisions (if any) are made by the Board after review of the documented incident(s).
 
 ## 5. Roles & Responsibilities
 - **All Staff/Volunteers**: Model and gently enforce the Code of Conduct.
-- **Executive Committee (EC)**: Reviews and documents serious violations.
+- **Executive Councill (EC)**: Reviews and documents serious violations.
 - **Board of Trustees**: Final decision-maker on any restriction from the premises.
 
 ## 6. Related Policies

@@ -5,10 +5,10 @@
 | | |
 |---|---|
 | Policy No. | ICN-04 |
-| Effective Date | *[To be entered upon EC adoption]* |
-| Approved By | *[Board of Trustees]* |
+| Effective Date |  10/15/2026 |
+| Approved By | EC Chair |
 | Review Cycle | Annual, and after any incident or drill |
-| Owner | 	Executive Committee (EC) / Security Committee |
+| Owner | 	Executive Councill (EC) / Security Committee |
 
 ---
 
@@ -54,7 +54,7 @@ The EAP is posted in staff areas and reviewed with all staff and key volunteers 
 - Any injury, near-miss, or safety-relevant event is logged on an Incident Report Form within 24 hours and reviewed monthly by the Safety/Facilities Committee.
 
 ### 3.7 Weather Closure Policy
-- Closure or delay decisions (severe storms, tornado warnings, extreme heat/cold advisories) are made by the Executive Committee (EC) or designee, communicated via the mass notification system, and posted on the website/social media.
+- Closure or delay decisions (severe storms, tornado warnings, extreme heat/cold advisories) are made by the Executive Councill (EC) or designee, communicated via the mass notification system, and posted on the website/social media.
 
 ## 4. Procedures
 1. Facility Manager schedules and logs all fire-system inspections and AED/first-aid checks.

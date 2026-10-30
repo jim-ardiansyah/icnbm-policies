@@ -5,12 +5,11 @@
 | | |
 |---|---|
 | Policy No. | ICN-17 |
-| Effective Date | *[To be entered upon EC adoption]* |
-| Approved By | *[Board of Trustees]* |
+| Effective Date |  10/15/2026 |
+| Approved By | EC Chair |
 | Review Cycle | Annual |
 | Owner | Facility Manager |
 
-> This policy sets the day-to-day rules for anyone using the gymnasium — members, drop-in users, youth programs, and event attendees. It applies in addition to, not instead of, the Gymnasium Operations & Rental Policy (ICN-16), which governs bookings, pricing, and rental administration.
 
 ---
 

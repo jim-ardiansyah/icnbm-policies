@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | Policy No. | ICN-12 |
-| Effective Date | *[To be entered upon EC adoption]* |
+| Effective Date |  10/15/2026 |
 | Approved By | *[Board of Trustees / Finance Committee]* |
 | Review Cycle | Annual |
 | Owner | Finance Committee / Treasurer |

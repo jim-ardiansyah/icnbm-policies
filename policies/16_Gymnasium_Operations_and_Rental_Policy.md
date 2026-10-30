@@ -5,14 +5,11 @@
 | | |
 |---|---|
 | Policy No. | ICN-16 |
-| Effective Date | *[To be entered upon EC adoption]* |
-| Approved By | *[Board of Trustees]* |
+| Effective Date |  10/15/2026 |
+| Approved By | EC Chair |
 | Review Cycle | Annual; rates reviewed each spring |
 | Owner | Executive Committee /Facility Manager |
 
-> **Status:** Draft for Board adoption and legal review. In any conflict between this policy and a signed rental agreement, the more restrictive term controls unless the Facilities Manager and Board expressly agree otherwise in writing.
-
----
 
 ## 1. Purpose
 - Establish clear, consistent rules for operating and renting the Multi-Purpose Gymnasium.
@@ -50,25 +47,15 @@ This policy applies to the gymnasium floor, bleachers, stage, storage, and direc
 ### 3.2 Operating Hours & Access
 
 **Hard constraints (non-negotiable):**
-- Weekdays 8:00 AM–4:00 PM: facility reserved and closed to the public — dedicated to NIA. No public rentals or drop-in use.
-- Weekdays 3:30 PM–4:00 PM: cleaning/turnover buffer — closed to the public.
+- Weekdays 9:00 AM–4:00 PM: facility reserved and closed to the public — dedicated to NIA. No public rentals or drop-in use.
+- Weekdays 4:00 PM–4:30 PM: cleaning/turnover buffer — closed to the public.
 - Weekdays and Weekend after Fajr to 7:30 AM: public access is available by reservation only
 - Weekday public hours begin at 4:00 PM - 10:00 PM.
 - Weekends (Sat–Sun): rental-priority; must be reservable via the online reservation system.
 
 - Alcohol, illegal drugs, and smoking/vaping are prohibited on ICN Bellevue property at all times.
 
-**Standard weekly schedule**
 
-| Day | Block | Designated Use | Access |
-|---|---|---|---|
-| Mon–Fri | 8:00 AM – 3:30 PM | NIA dedicated use | Closed to public; NIA only |
-| Mon–Fri | 3:30 PM – 4:00 PM | Cleaning & turnover buffer | Closed; staff only |
-| Mon–Fri | 4:00 PM – 10:00 PM | Community programs & public rentals | Open (reservation or program) |
-| Saturday | 8:00 AM – 11:00 PM* | Rental-priority (reservable online) | Open — book online |
-| Sunday | 8:00 AM – 11:00 PM* | Rental-priority (reservable online) | Open — book online |
-
-*Hours illustrative; confirm final open/close times with the Board.*
 
 **Access rules**
 - No public entry during NIA hours or the turnover buffer. Doors open to the public no earlier than 4:00 PM on weekdays.
@@ -229,48 +216,8 @@ Security staffing surcharge is billed at cost per officer-hour (see §3.13). ICN
 
 ### 3.13 Rental Pricing Schedule
 
-**Base facility rates by user category**
+Rental rates and applicable fees will be published on the website. Pricing is subject to change at the discretion of management. Any updates will be reflected on the website.
 
-| User Category | Hourly | Half-Day (4 hr) | Full-Day (8 hr) |
-|---|---|---|---|
-| ICN Bellevue internal programs | $0 (no fee) | $0 | $0 |
-| NIA (beyond dedicated hours) | $0 for contracted block; ICN-internal rate after hours | — | — |
-| ICN members (in good standing) | $40 | $140 | $260 |
-| Nonprofit / community / school | $55 | $190 | $350 |
-| Youth sports leagues (seasonal) | $45 (league rate) | $160 | $300 |
-| Private social events (wedding/reception) | $110 | $400 | $750 |
-| Commercial / for-profit | $150 | $540 | $1,000 |
-
-*Half-day ≈ 3.5× hourly; full-day ≈ 6.5× hourly — booking longer blocks earns a discount. Weekend private-event rates already reflect prime demand. NIA pays no fee for its contracted weekday block; after-hours/extra NIA use is billed at the ICN-internal (no-fee) or member rate at the Board's discretion.*
-
-**Deposits, fees & surcharges**
-
-| Item | Amount | Notes |
-|---|---|---|
-| Non-refundable booking fee | $50 (member/nonprofit) / $100 (private/commercial) | Reserves the date; applied at booking, not refundable. |
-| Refundable damage deposit | $200 small / $500 standard / $1,000 large or high-risk | Held; returned within 14 days less any charges. |
-| Cleaning fee (standard turnover) | $75 (small) / $150 (standard) / $300 (large/food event) | Covers routine post-event cleaning by staff. |
-| Overtime / late fee | $25 per 15-minute increment, per started increment | Applies past the reserved end time; deducted from deposit. |
-| Security surcharge | At cost, ~$45–$65 per officer-hour (min 4 hr/officer) | Per §3.6 thresholds; ICN arranges officers. |
-| AV / tech staff | $35 per hour (when required) | For complex AV/stage/PA setups. |
-| Additional custodial (heavy events) | $40 per hour | When mess exceeds standard turnover. |
-| Kitchen (warming) add-on | $75 per event | Warming/serving only; on-site cooking needs approval/permits. |
-| Floor-protection (banquet layout) | $100 per event | Required covering under tables/chairs on sport floor. |
-| Cancellation fee | See §3.13 refund table (tiered) | Depends on notice given. |
-
-*Overtime rationale: $25/15 min (= $100/hr) is punitive enough to protect turnover and the next booking while remaining fair. Security at cost avoids markup on a safety requirement.*
-
-
-**NIA & ICN program rates / discounts**
-- NIA: no fee for its contracted weekday 8 AM–4 PM block. Any additional/after-hours NIA use is booked at the ICN-internal (no-fee) or member rate, at Board discretion, and still counts against public availability.
-- ICN Bellevue internal programs: no rental fee; still complete a simple internal booking and follow safety/conduct rules.
-- ICN members: discounted base rate and lower booking fee as shown.
-- Recurring community/youth programs may receive a seasonal package rate (e.g., a league booking a weekly slot for a season) at the FM's discretion within Board-approved ranges.
-
-**Rate review cadence & triggers**
-- Review all rates annually (recommended each spring, ahead of the next program year).
-- Trigger an off-cycle review if: utility/insurance/janitorial costs rise materially (>10%); demand consistently exceeds or falls short of capacity; comparable local venues shift pricing significantly; or a new cost (permit, staffing, tax) is introduced.
-- All rate changes require Board approval and are communicated to standing renters at least 30–60 days before taking effect.
 
 ### 3.14 Reservation & Approval Workflow
 

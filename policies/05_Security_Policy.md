@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Policy No. | ICN-05 |
-| Effective Date | *[To be entered upon EC adoption]* |
-| Approved By | *[Board of Trustees]* |
+| Effective Date |  10/15/2026 |
+| Approved By | EC Chair |
 | Review Cycle | Annual, and after any security incident |
 | Owner | Security Committee |
 
@@ -28,7 +28,7 @@ Applies to the entire ICN Bellevue campus, including parking areas, all staff, v
 ### 3.2 Video Surveillance (CCTV)
 - Cameras cover all entrances, exits, parking areas, and main hallways.
 - Footage is retained for a minimum of 30 days (up to 90 days where storage allows).
-- Footage may be reviewed only by the Executive Committee (EC), Security Committee Chair, or law enforcement upon lawful request; all reviews are logged.
+- Footage may be reviewed only by the Executive Councill (EC), Security Committee Chair, or law enforcement upon lawful request; all reviews are logged.
 
 ### 3.3 Security Personnel & Volunteers
 - Trained greeters/ushers are stationed at every major entrance during Jummah, Taraweeh, and Eid, wearing visible ID badges or vests.

@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Policy No. | ICN-06 |
-| Effective Date | *[To be entered upon EC adoption]* |
-| Approved By | *[Board of Trustees]* |
+| Effective Date |  10/15/2026 |
+| Approved By | EC Chair |
 | Review Cycle | Annual |
 | Owner | Facility Manager |
 

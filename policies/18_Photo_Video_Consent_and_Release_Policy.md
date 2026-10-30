@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Policy No. | ICN-18 |
-| Effective Date | *[To be entered upon EC adoption]* |
-| Approved By | *[Board of Trustees]* |
+| Effective Date |  10/15/2026 |
+| Approved By | EC Chair |
 | Review Cycle | Annual |
 | Owner | IT/Communications Committee |
 
@@ -34,7 +34,7 @@ Photography and video are permitted at ICN Bellevue for legitimate community, ed
 
 ### 3.4 Outside Photographers, Renters & Media
 - Renters hosting private events (weddings, receptions) may bring their own photographer/videographer for their own event coverage; that footage is the renter's property and is not subject to this policy, but the photographer must still respect the prohibited areas in §3.1 and any request from other congregants present (e.g., in shared spaces) not to be filmed.
-- Press or outside media requesting to film or photograph at ICN Bellevue must be approved in advance by the Executive Committee (EC) or designee and are escorted by staff at all times, per the Media & Public Statement Policy (ICN-19).
+- Press or outside media requesting to film or photograph at ICN Bellevue must be approved in advance by the Executive Councill (EC) or designee and are escorted by staff at all times, per the Media & Public Statement Policy (ICN-19).
 
 ### 3.5 Storage & Use of Consent Forms
 - Signed release forms are filed (physically or digitally) and retained for as long as the associated image/video may reasonably be in use, consistent with the Document Retention Policy.
@@ -45,12 +45,12 @@ Photography and video are permitted at ICN Bellevue for legitimate community, ed
 2. Any staff/volunteer planning a featured photo, video, or story involving an identifiable individual obtains a signed release before the content is used.
 3. Youth program enrollment includes a parental photo/video consent checkbox, tracked alongside other program paperwork.
 4. Consent withdrawal requests are logged and routed to the IT/Communications Coordinator for removal from ICN Bellevue-controlled platforms.
-5. Outside media requests are routed to the Executive Committee (EC) for approval before any filming begins.
+5. Outside media requests are routed to the Executive Councill (EC) for approval before any filming begins.
 
 ## 5. Roles & Responsibilities
 - **IT/Communications Coordinator**: Maintains release forms, manages consent withdrawal requests, ensures published content complies with consent scope.
 - **Program/Event Staff**: Collect signed releases before featuring an individual; enforce no-photography zones.
-- **Executive Committee (EC)**: Approves outside media/press filming requests.
+- **Executive Councill (EC)**: Approves outside media/press filming requests.
 
 ## 6. Related Policies
 IT, AV & Communications Policy (ICN-13) · Children, Youth & Family Safety Policy (ICN-09) · Media & Public Statement Policy (ICN-19)
